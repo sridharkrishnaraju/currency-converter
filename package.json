@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/currency-converter",
+  "version": "1.0.0",
+  "description": "Live currency converter using ECB reference rates. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "currency-converter.js",
+  "unpkg": "currency-converter.js",
+  "files": ["currency-converter.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "usd to sgd converter", "sgd exchange rate", "live currency converter"],
+  "homepage": "https://sgbp.tech/tools/currency-converter",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
