@@ -1,0 +1,8 @@
+site_name: Currency Converter
+site_description: Live currency converter using ECB reference rates.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
